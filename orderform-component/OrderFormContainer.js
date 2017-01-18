@@ -91,7 +91,7 @@ export class OrderFormContainer extends React.Component {
     }
 
     return (
-      <Paper>s
+      <Paper>
         <div class="order-form-border">
           <StandardOrderForm
             fields={this.props.format}
